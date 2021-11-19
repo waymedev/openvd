@@ -12,7 +12,8 @@ return a+b ;
 }
 int hieu(int a, int b);
 >>>>>>> 0eee0876598b6ba77a45afa7c85a9a529e95b17e
-
+int tich(int a, int b){	
+	return a*b;
 }
 
 
